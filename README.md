@@ -1,6 +1,6 @@
 # crud-mobile
 
-## App desenvolvido no curso da Cod3er
+## Simple CRUD in react native
 
 - Rode: 
 
